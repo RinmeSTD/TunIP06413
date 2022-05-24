@@ -6,3 +6,5 @@
 มันเริ่มเมื่อราว 5,000 ปีก่อนคริสตกาล ชาวสุเมเรียนได้ฝึกฝนการทำการเกษตร พัฒนาภาษาเขียน คิดค้นล้อ และสร้างใจกลางเมือเป็นแห่งแรกของโลก
 
 ![picture1](https://www.scholarship.in.th/wp-content/uploads/2020/04/2-21.jpg)
+
+Credit: https://www.scholarship.in.th/8-historical-stories/
