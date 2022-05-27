@@ -1,7 +1,7 @@
 
 # การกำเนิดของอารยธรรม
 
-## อารยธรรมแรกในประวัติศาสตร์เกิดขึ้นที่สุเมเรียน ในเมโสโปเตเมีย (อิรักยุคใหม่) 
+## อารยธรรมแรกในประวัติศาสตร์เกิดขึ้นที่สุเมเรียน ในเมโสโปเตเมีย (อิรักยุคใหม่)(เน้นไปทางเมโสโปเตเมียนิดนึงเพราะแอดเพิ่มข้อมูลให้ มันดูน้อยไป)
 
 มันเริ่มเมื่อราว 5,000 ปีก่อนคริสตกาล ชาวสุเมเรียนได้ฝึกฝนการทำการเกษตร พัฒนาภาษาเขียน คิดค้นล้อ และสร้างใจกลางเมือเป็นแห่งแรกของโลก
 
@@ -15,4 +15,4 @@
 
 ![picture1](https://www.scholarship.in.th/wp-content/uploads/2020/04/2-21.jpg)
 
-Credit: [Scholarship](https://www.scholarship.in.th/8-historical-stories/) [Wikipedia](https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%A1%E0%B9%82%E0%B8%AA%E0%B9%82%E0%B8%9B%E0%B9%80%E0%B8%95%E0%B9%80%E0%B8%A1%E0%B8%B5%E0%B8%A2)
+Credit: [Scholarship](https://www.scholarship.in.th/8-historical-stories/) | [Wikipedia](https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%A1%E0%B9%82%E0%B8%AA%E0%B9%82%E0%B8%9B%E0%B9%80%E0%B8%95%E0%B9%80%E0%B8%A1%E0%B8%B5%E0%B8%A2)
