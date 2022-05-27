@@ -9,4 +9,4 @@
 
 ![picture1](https://scontent.fbkk5-5.fna.fbcdn.net/v/t39.30808-6/284543617_113665281353186_5899037173910269540_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeHXOra0cmarpfsQj9BZb7xmhtIrxROPJRGG0ivFE48lEWQ8GQZmJVY_lrXbRGHR9ti2-_ipXIzQLd5thglP1KOA&_nc_ohc=WtG8qlwohj8AX960E1H&_nc_ht=scontent.fbkk5-5.fna&oh=00_AT92RtuHJcremvBam3tBQP_YdUhNls-0wpouSheWFlX3LQ&oe=6295D3EC)
 
-แหล่งอ้างอิง: [Victorytale](https://victorytale.com/th/plc-fall/) [Wikipedia](https://th.wikipedia.org/wiki/เครือจักรภพโปแลนด์-ลิทัวเนีย)
+แหล่งอ้างอิง: [Victorytale](https://victorytale.com/th/plc-fall/) | [Wikipedia](https://th.wikipedia.org/wiki/เครือจักรภพโปแลนด์-ลิทัวเนีย)
