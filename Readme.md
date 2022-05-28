@@ -13,3 +13,4 @@
 - [อารยธรรมกรีก](https://github.com/RinmeSTD/TunIP06413/tree/rindef/greek)
 - [ก๋วยเตี๋ยวเรือ](https://github.com/RinmeSTD/TunIP06413/tree/rindef/boatnoodle)
 - [การประชุมของสภา"Sejm"](https://github.com/RinmeSTD/TunIP06413/tree/rindef/sejm)
+- [วันแห่งการบอกรักกัน ในฉบับจีน](https://github.com/RinmeSTD/TunIP06413/tree/rindef/520)
