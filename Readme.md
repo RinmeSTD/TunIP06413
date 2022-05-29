@@ -28,7 +28,7 @@
 - Why github?
 > Because one of admins are good in doing a document in github so.
 
-- Too many admins?
+- How many admins?
 > There are 2, It's myself(Rinme) and another Female admin :).
 
 - How many we are(In class)
