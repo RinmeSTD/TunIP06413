@@ -7,10 +7,38 @@
 <h2 align="center">Welcome to our catalogs, We are doing History for our class (History class)</h2>
 
 ### Here's list of all history we post in ours [Facebook page](https://www.facebook.com/TunIP06413)
-
+<details><summary>Expand</summary>
+  <p>
+    
 - [การกำเนิดของอารยธรรม](https://github.com/RinmeSTD/TunIP06413/tree/rindef/birthofcivilization)
 - [จักรวรรดิโรมัน](https://github.com/RinmeSTD/TunIP06413/tree/rindef/romanempire)
 - [อารยธรรมกรีก](https://github.com/RinmeSTD/TunIP06413/tree/rindef/greek)
 - [ก๋วยเตี๋ยวเรือ](https://github.com/RinmeSTD/TunIP06413/tree/rindef/boatnoodle)
 - [การประชุมของสภา"Sejm"](https://github.com/RinmeSTD/TunIP06413/tree/rindef/sejm)
 - [วันแห่งการบอกรักกัน ในฉบับจีน](https://github.com/RinmeSTD/TunIP06413/tree/rindef/520)
+- [ที่มาคำว่า "แฟน"](https://github.com/RinmeSTD/TunIP06413/tree/rindef/fans)
+
+    </p>
+</details>
+
+### FAQ (Q&A)
+<details><summary>Expand</summary>
+  <p>
+    
+- Why github?
+> Because one of admins are good in doing a document in github so.
+
+- Too many admins?
+> There are 2, It's myself(Rinme) and another Female admin :).
+
+- How many we are(In class)
+> We're only 17 peoples, compare to others class we are little amount of people.
+
+- How we find infomations?
+> Google.
+
+- What we do?
+> Simple. A history about anything such as WW2, Ramkhamhaeng, Vietnam war, Kissing, History of some word and etc.
+
+</p>
+</details>
