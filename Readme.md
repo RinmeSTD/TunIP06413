@@ -17,7 +17,9 @@
 - [การประชุมของสภา"Sejm"](https://github.com/RinmeSTD/TunIP06413/tree/rindef/sejm)
 - [วันแห่งการบอกรักกัน ในฉบับจีน](https://github.com/RinmeSTD/TunIP06413/tree/rindef/520)
 - [ที่มาคำว่า "แฟน"](https://github.com/RinmeSTD/TunIP06413/tree/rindef/fans)
-
+- [ชายรักชาย](https://github.com/RinmeSTD/TunIP06413/blob/rindef/pride)
+- [ประชาธิปไตย](https://github.com/RinmeSTD/TunIP06413/blob/rindef/democracy) 
+    
     </p>
 </details>
 
