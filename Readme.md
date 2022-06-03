@@ -20,6 +20,7 @@
 - [ชายรักชาย](https://github.com/RinmeSTD/TunIP06413/blob/rindef/pride)
 - [ประชาธิปไตย](https://github.com/RinmeSTD/TunIP06413/blob/rindef/democracy)
 - [พระเจ้าแผ่นดินสยามในรัชกาลที่ 4 มี 2 พระองค์](https://github.com/RinmeSTD/TunIP06413/tree/rindef/2kingrama4)
+- [ยุคแห่งการสำรวจทางทะเล](https://github.com/RinmeSTD/TunIP06413/tree/rindef/ageofexploration)
     
     </p>
 </details>
